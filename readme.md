@@ -1,3 +1,7 @@
+Only the necessary files have been uploaded to the repo, replace the static and templates folder when Flask is run
+
+
+
 ### Steps to setup virtual environment
 
 1. Creating the virtual environment
